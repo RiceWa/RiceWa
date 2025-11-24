@@ -1,7 +1,6 @@
 
 
 <h1 align="center"> James Fitze </h1>
-<h3 align="center">Full-Stack Developer / Mobile & Web Builder</h3>
 
 <br/>
 
