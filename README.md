@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RiceWa/RiceWa/main/banner.jpg" width="100%" height="200" />
-</p>
 
 
 <h1 align="center"> James Fitze </h1>
