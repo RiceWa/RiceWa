@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jamesfitze/jamesfitze/main/banner.jpg" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/RiceWa/RiceWa/main/banner.jpg" width="100%" />
 </p>
 
 <h1 align="center"> James Fitze </h1>
