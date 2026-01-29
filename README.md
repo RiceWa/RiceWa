@@ -5,14 +5,14 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+enjoy+building+random+projects+I+think+of.;AI+%7C+Web+%7C+Mobile+%7C+Cloud;Always+learning+something+new." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+enjoy+building+random+projects+I+think+of.;Web+%7C+Mobile+%7C+Cloud;Always+learning+something+new." />
 </p>
 
 ---
 
 ##  About Me
 -  Full-stack developer building with **Go, Python, JS/TS**
--  Working on **AI tools, Encoders, API's, and backend services**
+-  Working on **Encoders, API's, and backend services**
 -  Building apps for **Android, desktop, Web**
 -  Always learning something new every day.
 
