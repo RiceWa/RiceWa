@@ -27,7 +27,7 @@
 
 ##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-virid-nine-58.vercel.app/api?username=jamesfitze&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-virid-nine-58.vercel.app/api?username=jamesfitze&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats-virid-nine-58.vercel.app/api/top-langs/?username=jamesfitze&layout=compact&theme=radical" height="165"/>
 </p>
 
