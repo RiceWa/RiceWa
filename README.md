@@ -12,7 +12,7 @@
 
 ##  About Me
 -  Full-stack developer building with **Go, Python, JS/TS**
--  Currently Working on **Encoders, API's, and NFC's**
+-  Currently Working on **Encoders, IOS Apps, and NFC's**
 -  Building apps for **Android, desktop, Web**
 -  Always learning something new every day.
 
