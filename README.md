@@ -8,13 +8,6 @@
 - Usually working on something, occasionally finishing it.
 
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts,kotlin,nodejs,react,flutter,linux,mongodb,firebase,supabase,docker" />
-</p>
-
-
 ## GitHub Stats
 
 <p align="center">
