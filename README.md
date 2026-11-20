@@ -1,8 +1,6 @@
 
 <h1 align="center">James Fitze</h1>
 
-<br/>
-
 ---
 
 ## About Me
