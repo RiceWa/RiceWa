@@ -1,5 +1,9 @@
 
-<h1 align="center">James Fitze</h1>
+<h1 align="center">
+  <span style="border-bottom: 2px solid; padding-bottom: 5px;">
+    James Fitze
+  </span>
+</h1>
 
 
 ## About Me
