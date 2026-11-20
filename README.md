@@ -1,14 +1,12 @@
 
 <h1 align="center">James Fitze</h1>
 
----
 
 ## About Me
 
 - Python for automation, TypeScript/JavaScript for web dev.
 - Usually working on something, occasionally finishing it.
 
----
 
 ## Tech Stack
 
@@ -16,7 +14,6 @@
   <img src="https://skillicons.dev/icons?i=python,go,js,ts,kotlin,nodejs,react,flutter,linux,mongodb,firebase,supabase,docker" />
 </p>
 
----
 
 ## GitHub Stats
 
@@ -25,7 +22,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RiceWa&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </p>
 
----
 
 ## Contribution Snake
 
@@ -33,7 +29,6 @@
   <img src="https://raw.githubusercontent.com/RiceWa/RiceWa/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
----
 
 ## Connect With Me
 
@@ -49,6 +44,5 @@
   </a>
 </p>
 
----
 
 <p align="center"><i>See you later.</i></p>
