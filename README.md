@@ -3,18 +3,12 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=24&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+enjoy+building+random+projects+I+think+of.;Web+%7C+Mobile+%7C+Cloud;Always+learning+something+new." />
-</p>
-
 ---
 
 ## About Me
 
-- Full-stack developer building with **Go, Python, JS/TS**
-- Currently working on **React Native Apps, iOS Apps, and NFCs**
-- Building apps for **Android, desktop, and Web**
-- Always learning something new every day.
+- Python for automation, TypeScript/JavaScript for web dev.
+- Usually working on something, occasionally finishing it.
 
 ---
 
