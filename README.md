@@ -1,16 +1,13 @@
+<h1 align="center">James Fitze<br></h1>
 
-<h1 align="center">
-  <span style="border-bottom: 2px solid; padding-bottom: 5px;">
-    James Fitze
-  </span>
-</h1>
-
+<br>
 
 ## About Me
 
 - Python for automation, TypeScript/JavaScript for web dev.
 - Usually working on something, occasionally finishing it.
 
+<br>
 
 ## GitHub Stats
 
@@ -18,14 +15,18 @@
   <img src="https://github-stats-extended.vercel.app/api?username=RiceWa&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RiceWa&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </p>
-
+<p align="right">The C#, ShaderLab, and HLSL comes from a single unity project... </p>
+<p align="right">(I'm not much of a game dev)</p>
+<br>
 
 ## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RiceWa/RiceWa/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+<p align="right">Snek</p>
 
+<br>
 
 ## Connect With Me
 
