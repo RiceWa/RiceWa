@@ -1,6 +1,5 @@
 
-
-<h1 align="center"> James Fitze </h1>
+<h1 align="center">James Fitze</h1>
 
 <br/>
 
@@ -10,43 +9,54 @@
 
 ---
 
-##  About Me
--  Full-stack developer building with **Go, Python, JS/TS**
--  Currently Working on **React Native Apps, IOS Apps, and NFC's**
--  Building apps for **Android, desktop, Web**
--  Always learning something new every day.
+## About Me
+
+- Full-stack developer building with **Go, Python, JS/TS**
+- Currently working on **React Native Apps, iOS Apps, and NFCs**
+- Building apps for **Android, desktop, and Web**
+- Always learning something new every day.
 
 ---
 
-##  Tech Stack
+## Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,js,ts,kotlin,nodejs,react,flutter,linux,mongodb,firebase,supabase,docker" />
 </p>
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
+
 <p align="center">
- [![RiceWa's GitHub stats](https://github-stats-extended.vercel.app/api?username=RiceWa)](https://github.com/stats-organization/github-stats-extended)
-</p>
-
-
----
-
-##  Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RiceWa/RiceWa/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=RiceWa&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RiceWa&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </p>
 
 ---
 
-##  Connect With Me
+## Contribution Snake
+
 <p align="center">
-  <a href="mailto:jamesfitze007@gmail.com"><img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/RiceWa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/james-fitze/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/RiceWa/RiceWa/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-<p align="center"><i> See you later. </i></p>
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:jamesfitze007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/RiceWa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/james-fitze/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>See you later.</i></p>
